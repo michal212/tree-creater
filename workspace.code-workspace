@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\recusion"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "tree creater"
+  }
+}
